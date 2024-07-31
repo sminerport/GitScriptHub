@@ -29,7 +29,3 @@ GitScriptHub is a collection of bash scripts to simplify working with Git branch
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Visualizations
-
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sminerport&theme=github-light)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sminerport&show_icons=true&theme=default&count_private=true)
